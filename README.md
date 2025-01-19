@@ -37,12 +37,11 @@ If they show up red, that means there's a problem. Hover over the mod icon (whic
 
 > *There's some content in the mod I don't like! Is there any way to remove them?*
 
-You can disable some features of the mod by opening your Settings, going over to the Spectral Pack tab, clicking [Cryptid], then checking/unchecking what you want.
-You can also enable/disable certain music tracks. If you're a streamer, consider disabling the Jimball music for your safety!
+You can disable some features of the mod by opening the "Mods" tab and clicking on cryptid, then going to the features tab. If you're a streamer, consider disabling the Jimball music for your safety! There's a guide at the bottom of the FAQ for disabling individual additions.
 
 > *I'm hitting infinity very often, is there any way to raise the limit of the scoring system?*
 
-Talisman may be configured to be on **BigNum** mode, which has a maximum limit of ee308. You can make the limit virtually disappear by changing it to **OmegaNum**, which can handle e10##1000. You can configure it the same way; going into Settings, then the Spectral Pack tab, then Talisman. Be careful; if you have a saved run that was on a different number system, you won't be able to load it (unless if you switch back)!
+Talisman may be configured to be on **BigNum** (ee308) or **OmegaNum** (e10##1000). The limit virtually disappears while set to **OmegaNum**. You can configure it the same way; going into Mods, then Talisman. Be careful; if you have a saved run that was on a different number system, you won't be able to load it (unless you switch back)!
 
 
 > *I've experienced a crash/bug!*
